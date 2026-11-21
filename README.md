@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mazenelnems.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mazen-elnems">LinkedIn</a> ·
-  <a href="mailto:mazenelnems22@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/file/d/1ooGvk8IoRredbe8-p98Mov0E7xXEpdFK/view?usp=sharing">CV</a>
+  <a href="https://mazenelnems.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mazen-elnems"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:mazenelnems22@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+  <a href="https://drive.google.com/file/d/1ooGvk8IoRredbe8-p98Mov0E7xXEpdFK/view?usp=sharing"><img src="https://img.shields.io/badge/Download_CV-0d1117?style=for-the-badge&logo=googledrive&logoColor=2DD4BF" alt="Download CV"/></a>
 </p>
 
 ---
@@ -21,10 +21,10 @@ Computer & AI graduate (Damietta University, 2026) who builds the parts of a pro
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **AiLern** — AI-Enhanced LMS | AI quiz generation, batch grading with per-question feedback, document pipeline for AI-powered Q&A, background jobs, real-time notifications | .NET 9 · Clean Architecture · CQRS + MediatR · Hangfire · SignalR | [Code](https://github.com/MazenElnems/AiLern) · [Demo videos](https://github.com/MazenElnems/AiLern-Demo) |
+| **AiLern** — AI-Enhanced LMS | AI quiz generation, batch grading with per-question feedback, document pipeline for AI-powered Q&A, background jobs, real-time notifications | .NET 9 · Clean Architecture · CQRS + MediatR · Hangfire · SignalR | [![Code](https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github)](https://github.com/MazenElnems/AiLern) [![Demo](https://img.shields.io/badge/Demo-0f766e?style=flat-square)](https://github.com/MazenElnems/AiLern-Demo) |
 | **ChefNear** — Home-Cooked Food Marketplace | Marketplace connecting customers with home chefs: dish listings, ordering and order lifecycle, reviews, delivery/pickup, chef wallets and withdrawals with Paymob payments, real-time order updates | .NET · Clean Architecture · CQRS + MediatR · SignalR · Paymob | — |
-| **TechXpress** — E-commerce | Catalog and search, session cart & wishlist, secure Stripe checkout, order tracking, admin back-office | ASP.NET Core MVC · EF Core · SQL Server · Stripe | [Code](https://github.com/MazenElnems/techXpress) · [**Live Demo**](https://techxpress.tryasp.net/) |
-| **Restaurants API** | Clean Architecture practice done properly, backed by unit and integration tests | .NET 8 · CQRS + MediatR · EF Core · xUnit | [Code](https://github.com/MazenElnems/Restaurants) |
+| **TechXpress** — E-commerce | Catalog and search, session cart & wishlist, secure Stripe checkout, order tracking, admin back-office | ASP.NET Core MVC · EF Core · SQL Server · Stripe | [![Code](https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github)](https://github.com/MazenElnems/techXpress) [![Live Demo](https://img.shields.io/badge/Live_Demo-0f766e?style=flat-square)](https://techxpress.tryasp.net/) |
+| **Restaurants API** | Clean Architecture practice done properly, backed by unit and integration tests | .NET 8 · CQRS + MediatR · EF Core · xUnit | [![Code](https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github)](https://github.com/MazenElnems/Restaurants) |
 
 ## Tech Stack
 
