@@ -1,16 +1,46 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0f766e&height=200&section=header&text=Mazen%20Elnems&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20(.NET)&descAlignY=60&descSize=20"/>
 
-<!--
-**MazenElnems/MazenElnems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://mazenelnems.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Backend+Developer+(.NET);ASP.NET+Core+%7C+Clean+Architecture+%7C+CQRS;Building+systems+that+hold+up+in+production" alt="Backend Developer (.NET) — ASP.NET Core, Clean Architecture, CQRS"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://mazenelnems.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mazen-elnems">LinkedIn</a> ·
+  <a href="mailto:mazenelnems22@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/1ooGvk8IoRredbe8-p98Mov0E7xXEpdFK/view?usp=sharing">CV</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Computer & AI graduate (Damietta University, 2026) who builds the parts of a product that have to be reliable: **APIs, data models, business workflows, and integrations**. Clean architecture and tests behind them. Deepening my backend craft while growing into **DevOps** and **AI engineering**.
+
+**Currently:** Backend Developer Intern at **SpaceTech** (Alexandria) — developing backend services for the company's upcoming web platform with C#, ASP.NET Core, EF Core and SQL Server. *(Product details under NDA.)*
+
+## Selected Projects
+
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **AiLern** — AI-Enhanced LMS | AI quiz generation, batch grading with per-question feedback, document pipeline for AI-powered Q&A, background jobs, real-time notifications | .NET 9 · Clean Architecture · CQRS + MediatR · Hangfire · SignalR | [Code](https://github.com/MazenElnems/AiLern) · [Demo videos](https://github.com/MazenElnems/AiLern-Demo) |
+| **ChefNear** — Home-Cooked Food Marketplace | Marketplace connecting customers with home chefs: dish listings, ordering and order lifecycle, reviews, delivery/pickup, chef wallets and withdrawals with Paymob payments, real-time order updates | .NET · Clean Architecture · CQRS + MediatR · SignalR · Paymob | — |
+| **TechXpress** — E-commerce | Catalog and search, session cart & wishlist, secure Stripe checkout, order tracking, admin back-office | ASP.NET Core MVC · EF Core · SQL Server · Stripe | [Code](https://github.com/MazenElnems/techXpress) · [**Live Demo**](https://techxpress.tryasp.net/) |
+| **Restaurants API** | Clean Architecture practice done properly, backed by unit and integration tests | .NET 8 · CQRS + MediatR · EF Core · xUnit | [Code](https://github.com/MazenElnems/Restaurants) |
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,cpp,py,html,css&perline=9" alt="C#, .NET, Angular, TypeScript, JavaScript, C++, Python, HTML, CSS"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,git,github,linux,docker,postgres,mysql,postman&perline=9" alt="Bootstrap, Git, GitHub, Linux, Docker, PostgreSQL, MySQL, Postman"/>
+</p>
+
+Also: SQL Server · EF Core · Clean Architecture · CQRS · MediatR · SignalR · Hangfire · JWT · Stripe · Paymob · REST APIs
+
+## Certificates & Achievements
+
+- **Claude Code 101** — Anthropic Education, 2026 · [Verify](https://verify.skilljar.com/c/9kv72upfouhm)
+- **ECPC 2023** — 18th Place (Day 2), Egyptian Collegiate Programming Contest, representing Damietta University
+- **Full-Stack .NET Web Developer** — Digital Egypt Pioneers Initiative (DEPI), 2025
+- **Angular Frontend Web Developer** — Digital Egypt Pioneers Initiative (DEPI), 2026
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0d1117&height=100&section=footer"/>
